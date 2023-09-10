@@ -1,0 +1,6 @@
+rotacion lograda.
+solo centro, luna y tierra
+tierra x-10 luna x+10
+tierra inicial en y 0.1
+fuerza de atraccion 100.000
+
